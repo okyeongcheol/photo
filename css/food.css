@@ -79,19 +79,28 @@ html{
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
-    width: 966px;
+
     
+}
+.popup9{
+    height: 100vh;
+}
+.popup7>div>img{
+    height: 100vh;
 }
 .popup>div>img{
     width:100%;
 }
 @media (max-width:966px){
     .popup>div{
-        width:100%;
+        width: 100%;
     }
 }
 
 .popup9{
+    height: 100vh;
+}
+.popup7{
     height: 100vh;
 }
 .close{
